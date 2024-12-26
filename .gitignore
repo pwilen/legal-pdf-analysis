@@ -1,6 +1,9 @@
 # Exclude virtual environments
 /llama_env/
 
+# Exclude local documentation
+/local_documentation
+
 # Exclude system files
 *.DS_Store
 
