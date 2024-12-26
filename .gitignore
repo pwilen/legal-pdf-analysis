@@ -1,0 +1,15 @@
+# Exclude virtual environments
+/llama_env/
+
+# Exclude system files
+*.DS_Store
+
+# Exclude large files and binaries
+*.dylib
+*.so
+*.dll
+
+# Python cache files
+__pycache__/
+*.pyc
+
